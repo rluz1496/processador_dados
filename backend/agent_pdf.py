@@ -17,6 +17,7 @@ load_dotenv()
     #Identificador de telefone --condosuite busca dados--
     #baixar csv para conferencia - OK
     #https://condosuite.condoconta.com.br/#/signin
+    #Inserir calculo 90/10 visivel
 
 
 # ------------------------------

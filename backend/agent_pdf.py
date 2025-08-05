@@ -19,7 +19,6 @@ load_dotenv()
     #https://condosuite.condoconta.com.br/#/signin
     #Inserir calculo 90/10 visivel
 
-
 # ------------------------------
 # MODELOS DE RESPOSTA
 # ------------------------------
